@@ -1,4 +1,4 @@
-[![MasterHead](img/Learning Something New Always.png)](https://KCmean.github.io)
+[![MasterHead](https://ibb.co/vV6QRbK)](https://KCmean.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Kunal Chaturvedi</h1>
