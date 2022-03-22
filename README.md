@@ -1,10 +1,13 @@
 ![](img/Learning%20Something%20New%20Always.png)
 
 
+
 <h1 align="center">Hi 👋, I'm Kunal Chaturvedi</h1>
 <h3 align="center">Just A Weeb Finding A Way Out Through Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcmean&label=Profile%20views&color=0e75b6&style=flat" alt="kcmean" /> </p>
+
+<img align="right" alt="Coding" width="400" src="">
 
 - 🌱 I’m currently learning **WEB DEVELOPEMENT**
 
