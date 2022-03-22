@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAE7n1SpFpo/URGM72OamEcpDp_Iiqa8LQ/edit?utm_content=DAE7n1SpFpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://KCmean.github.io)
+[![MasterHead](https://www.canva.com/design/DAE7n1SpFpo/URGM72OamEcpDp_Iiqa8LQ/view?utm_content=DAE7n1SpFpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://KCmean.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Kunal Chaturvedi</h1>
