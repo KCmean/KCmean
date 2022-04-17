@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcmean&label=Profile%20views&color=0e75b6&style=flat" alt="kcmean" /> </p>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg==">
 
 - 🌱 I’m currently learning **WEB DEVELOPEMENT**
 
