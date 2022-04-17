@@ -1,5 +1,5 @@
+![Learning Something New Always](https://user-images.githubusercontent.com/96841396/163706911-a56f3ad9-5abe-47c6-95fd-8f9352f38e5e.png)
 
-![Learning Something New Always](https://user-images.githubusercontent.com/96841396/163706244-338d6b49-25b8-4760-815b-969b79084602.png)
 
 <h1 align="center">Hi 👋, I'm Kunal Chaturvedi</h1>
 <h3 align="center">Just A Weeb Finding A Way Out Through Coding</h3>
