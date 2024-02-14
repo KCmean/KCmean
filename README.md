@@ -5,3 +5,4 @@
 - 📫 How to reach me **kunalmanu2468@gmail.com**
 - ⚡ Fun fact **I am short**
 - ✨ Leetcode **KCmeaned**
+- 📝 Resume **https://shorturl.at/ghyB5**
